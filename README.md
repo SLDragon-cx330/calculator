@@ -15,4 +15,4 @@
 1. 克隆此仓库到本地：
 
    ```bash
-   git clone YOUR_GITHUB_REPO_URL
+   git@github.com:SLDragon-cx330/calculator.git
