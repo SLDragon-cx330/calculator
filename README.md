@@ -16,3 +16,18 @@
 
    ```bash
    git@github.com:SLDragon-cx330/calculator.git
+1.使用 Java 编译并运行：
+
+javac Calculator.java
+
+java Calculator
+## 贡献
+欢迎对此项目进行贡献！如果您有任何建议或发现了问题，请提交 Issue 或 Pull Request。
+## 鸣谢
+感谢所有对此项目有贡献的开发者。
+
+---
+若有不懂可以在[点击进入项目的博客地址详细讲解，不懂可在下方评论区留言](https://blog.csdn.net/VLOKL/article/details/131524100)
+
+
+
