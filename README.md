@@ -2,7 +2,7 @@
 
 一个基于 Java Swing 开发的美观且功能丰富的桌面计算器。
 
-![计算器截图](https://github.com/SLDragon-cx330/calculator/项目展示.png)
+![计算器截图](https://sldragon-cx330.github.io/calculator/项目展示.png)
 
 ## 主要特点
 
